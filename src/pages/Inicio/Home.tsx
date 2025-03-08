@@ -3,6 +3,7 @@ import Body from './content/BodyContent';
 import Footer from './content/FooterSection';
 import { Box } from '@mui/material';
 
+
 const inicio = () =>{
     return(
         <>
